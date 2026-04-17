@@ -13,7 +13,6 @@
 
   <p style="max-width:420px;margin:0 auto;font-size:16px;text-transform:uppercase;">
     ⚠️ ALL TOOLS ARE FOR EDUCATION PURPOSES ONLY — USE AT YOUR OWN RISK! ⚠️<br>
-    🛡️ HIRE AN  HACKER.<br>
     ✉️ MESSAGE ME ON TELEGRAM: <strong>@realwiced1</strong>
   </p>
 </div>
