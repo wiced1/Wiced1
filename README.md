@@ -13,6 +13,6 @@
 
   <p style="max-width:420px;margin:0 auto;font-size:16px;text-transform:uppercase;">
     ⚠️ ALL TOOLS ARE FOR EDUCATION PURPOSES ONLY ⚠️<br>
-    ✉️ MESSAGE ME ON TELEGRAM: <strong>@realwiced1</strong>✉️
+    ✉️ MESSAGE ME ON TELEGRAM: <strong>@realwiced1</strong> ✉️
   </p>
 </div>
